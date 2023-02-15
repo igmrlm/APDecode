@@ -6,8 +6,8 @@ A Python script that parses an AndroidManifest.xml file and checks the level of 
 
 1. Install Python (version 3.0 or later)
 2. Download the APDecode.py script to your local machine
-3. Navigate to the directory where APDecode.py is located
-4. Run the script by typing `python APDecode.py` in your terminal
+3. Navigate to the directory where AndroidManifest.xml is located
+4. Run the script by typing `python /path/to/scrip/\APDecode.py` in your terminal
 5. The script will output a list of each permission requested in the AndroidManifest.xml file, along with its danger level (normal, possibly dangerous, or dangerous).
 
 ## Features
