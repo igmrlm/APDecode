@@ -26,10 +26,6 @@ Here are a few examples of how the script outputs permission levels:
 - `android.permission.BLUETOOTH_ADMIN (possibly dangerous)`
 - `com.example.myapp.custom_permission (unknown)`
 
-## Contributing
-
-If you find a bug or want to suggest a new feature, please create a new issue in the [GitHub repository](https://github.com/yourusername/apdecode) or submit a pull request.
-
 ## License
 
 This script is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it however you like!
