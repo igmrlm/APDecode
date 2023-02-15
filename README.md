@@ -12,7 +12,7 @@ A Python script that parses an AndroidManifest.xml file and checks the level of 
 
 ## Features
 
-- Identifies 28 dangerous permissions and 35 possibly dangerous permissions based on Google's [official documentation](https://developer.android.com/guide/topics/permissions/overview#dangerous_permissions).
+- Identifies 28 dangerous permissions and 35 possibly dangerous permissions based on Google's [official documentation](https://developer.android.com/reference/android/Manifest.permission).
 - Checks each permission in the AndroidManifest.xml file and prints the danger level of each one.
 - Uses color coding to make it easy to identify the danger level of each permission (red for dangerous, yellow for possibly dangerous, green for normal, and cyan for unknown).
 - Handles both standard and custom permission names, as long as they start with the "android.permission" prefix.
